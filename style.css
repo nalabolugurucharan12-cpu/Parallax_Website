@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.image {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.I1 {
+    background-image: url("Sky image.webp");
+}
+
+.I2 {
+    background-image: url("Land.jpg");
+}
+
+.I3 {
+    background-image: url("Mountains.webp");
+}
+
+.I4 {
+    background-image: url("Water_img.webp");
+}
+
+.content {
+    margin : 0px;
+    padding: 60px ;
+    background-color: #f5d9d9;
+    text-align: center;
+}
+
+
